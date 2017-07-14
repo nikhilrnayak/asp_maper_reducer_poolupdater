@@ -1,0 +1,5 @@
+usage
+=====
+to build type [ make ]
+to run [ ./mprod_ncons <filename.txt> <mapper_thread_count> <reducercomments_thread_count> <summarizer_thread_count> ]
+to clean [ make clean ]
